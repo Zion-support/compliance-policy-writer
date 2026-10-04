@@ -1,11 +1,10 @@
-# 🔗 Zion AI App Network
+# Zion App Network — Interlinks
 
-Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+Part of the **Zion AI App Network**: https://github.com/Zion-support/zion-app-network
+- Hub: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
+- Batch 74 spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-04-BATCH74.md
+- Homepage: https://ziontechgroup.com | Plans: https://ziontechgroup.com/en/plans/ | Free Discovery: https://ziontechgroup.com/discovery/
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/compliance-policy-writer/
-- 🔗 Related: [Data Retention Enforcer](https://ziontechgroup.com/data-retention-enforcer/) · [Vendor Questionnaire Autopilot](https://ziontechgroup.com/vendor-questionnaire-autopilot/) · [Discovery](https://ziontechgroup.com/discovery/)
-
-© 2026 Zion Tech Group.
+## Batch 74 — Legal & Compliance AI
+Legal Contract Analyzer · Compliance Policy Writer (this repo) · GDPR DSAR Autopilot · Litigation Hold Manager · Vendor Risk Assessor · Regulatory Change Radar
+Repos: github.com/Zion-support/{legal-contract-analyzer,compliance-policy-writer,gdpr-dsar-autopilot,litigation-hold-manager,vendor-risk-assessor,regulatory-change-radar}
